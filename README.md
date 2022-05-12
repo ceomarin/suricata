@@ -26,9 +26,9 @@ Puedes ver el proyecto en funcionamiento gracias a GitHub Pages [aquí](https://
 - ***César Marín**** - Autoría - ceomarin
 - ***Edutecno**** - *Diseño de Mockup**
 
-**## Licencia 📄**
+## Licencia 📄
 
-Licencia MIT
+Este proyecto está bajo la Licencia (MIT License)
 
 **## Expresa tú Gratitud 🎁**
 
